@@ -45,7 +45,7 @@ ecommerce-sql-powerbi-project/
 
 ---
 
-## 🔍 SQL Queries (24 Total)
+## 🔍 SQL Queries (23 Total)
 
 ### 📦 Sales & Revenue
 | # | Query | Description |
