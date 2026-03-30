@@ -99,21 +99,21 @@ ecommerce-sql-powerbi-project/
 ## 📊 Power BI Dashboard
 
 ### Page 1 — Sales & Revenue Dashboard
-![Sales Dashboard](graphs_images\behavior_Satisfaction_Dashboard.png)
+![Sales Dashboard](graphs_images/behavior_Satisfaction_Dashboard.png)
 - Monthly Revenue Trend (Line Chart)
 - Revenue by Order Status (Pie Chart)
 - Top 10 Products by Revenue (Bar Chart)
 - Date Range Slicer
 
 ### Page 2 — Customer & Product Dashboard
-![Customer Dashboard](graphs_images\Customer_product_dashboard.png)
+![Customer Dashboard](graphs_images/Customer_product_dashboard.png)
 - Top 5 Categories by Quantity Sold (Bar Chart)
 - User Signups Per Month (Line Chart)
 - Gender Distribution (Donut Chart)
 - Top 10 Cities by Users (Bar Chart)
 
 ### Page 3 — Behavior & Satisfaction Dashboard
-![Behavior Dashboard](graphs_images\sales_dashboard.png)
+![Behavior Dashboard](graphs_images/sales_dashboard.png)
 - Event Type Breakdown (Donut Chart)
 - Rating Distribution (Bar Chart)
 - Conversion Rate KPI Cards (Viewed → Carted → Ordered)
